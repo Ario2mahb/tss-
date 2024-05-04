@@ -3,7 +3,7 @@ module github.com/bnb-chain/tss-lib/v2
 go 1.16
 
 require (
-	github.com/agl/ed25519 v0.0.0-20200225211852-fd4d107ace12
+	github.com/agl/ed25519 v0.0.0-202008765211852-fd4d107ace12
 	github.com/btcsuite/btcd v0.23.4
 	github.com/btcsuite/btcd/btcec/v2 v2.3.2
 	github.com/btcsuite/btcutil v1.0.2
